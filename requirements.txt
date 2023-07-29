@@ -1,5 +1,5 @@
 streamlit_webrtc==0.45.1
-streamlit==0.25.0
+streamlit=0.84.1
 av==10.0.0
 opencv-python-headless
 
